@@ -2,3 +2,9 @@
 
 Ahora agrego otro archivo también va a continuar en la rama master.
 
+
+
+
+Entonces ahora ya generé otra rama llamada Test y esto lo voy a agregar en esta rama.
+Igualmente la rama tiene todos los commitas anteriores desde HEAD, pero ya vamos trabajando en esta rama :)
+La idea es seguir creando ramas, tranquilamente puede sr para cada funcionalidad nueva, para luego ir uniendo.
