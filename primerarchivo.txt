@@ -5,3 +5,8 @@ Estoy comenzando a crear el proyecto de GIT
 Vamos a ir aprendiendo con unos videos de:
 https://www.youtube.com/watch?v=-UQulO_0prM
 
+
+
+---------------------------------------------------
+Agrego algo para poder hacer un segundo commit en el códig, pero por el momento
+seguimos trabajando sobre la rama master. . . .
