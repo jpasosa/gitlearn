@@ -3,5 +3,9 @@
 
 Creo un nuevo archivo y le agrego contenido en una nueva rama v0.2-testAp
 
-Vamos a seguir practicando ramas en GIT
+Borro una líneaa y agrego otra
+agrego otra línea en esta nueva rama aú no fusionada . . .
+
+
+
 
